@@ -1,9 +1,9 @@
-#BASICS OF C PROGRAMMING 
+# BASICS OF C PROGRAMMING 
+
+[![BASICS OF C LANGUAGE ](http://img.youtube.com/vi/PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh/0.jpg)](http://www.youtube.com/watch?v=si-KFFOW2gw&list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh)
 
 
-
-![BASICS OF C PROGRAMMING ]()](https://www.youtube.com/watch?v=si-KFFOW2gw&list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh)
-###Easy
+### Easy
 
 
 * A character is a vowel or consonant
