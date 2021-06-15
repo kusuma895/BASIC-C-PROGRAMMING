@@ -36,7 +36,7 @@ C is an imperative procedural language. It was designed to be compiled to provid
 As of January 2021, C was ranked first in the TIOBE index, a measure of the popularity of programming languages, moving up from the no. 2 spot the previous year.[9] 
 
 
-## ** **CLICK THE BELOW LINK TO LEARN MORE** **  
+#### ** **CLICK THE BELOW LINK TO LEARN MORE** **  
 
 [![BASICS OF C LANGUAGE ](http://img.youtube.com/vi/PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh/0.jpg)](http://www.youtube.com/watch?v=si-KFFOW2gw&list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh)
 
@@ -100,6 +100,6 @@ As of January 2021, C was ranked first in the TIOBE index, a measure of the popu
 * Roots of a quadratic equation
 * Count possible decodings of a given digit sequence
 
-## ** **CLICK THE BELOW LINK FOR SAMPLE C PROGRAMS** **
+#### ** **CLICK THE BELOW VIDEO FOR SAMPLE C PROGRAMS** **
 [![SAMPLE PROGRAMS](http://img.youtube.com/vi/vUtJ54a0X88/0.jpg)](http://www.youtube.com/watch?v=vUtJ54a0X88)
 
